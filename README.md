@@ -1,5 +1,9 @@
 # koa-apollo-graphql-playground
 
+[![Build Status](https://travis-ci.org/alexanderVu/koa-apollo-graphql-playground.svg?branch=master)](https://travis-ci.org/alexanderVu/koa-apollo-graphql-playground)
+[![Coverage Status](https://coveralls.io/repos/github/alexanderVu/koa-apollo-graphql-playground/badge.svg?branch=master)](https://coveralls.io/github/alexanderVu/koa-apollo-graphql-playground?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/alexanderVu/koa-apollo-graphql-playground/badge.svg?targetFile=package.json)](https://snyk.io/test/github/alexanderVu/koa-apollo-graphql-playground?targetFile=package.json)
+
 > Template or playground for Apollo-Server (GraphQL) on KoaJS.
 
 
@@ -25,11 +29,12 @@ npm run serve
 
 ## CLI
 
-* serve - Start the API with nodemon for hot reload during development
-* start - Node default start script to start api in production
-* test - Run jest test utility
-* lint - Run eslint standard
-* lint:fix - Run eslint with fix option
+* *serve* - Start the API with nodemon for hot reload during development
+* *start* - Node default start script to start api in production
+* *test* - Run jest test utility with coverall
+* *test:unit* - Run jest test utility only
+* *lint* - Run eslint standard
+* *lint:fix* - Run eslint with fix option
 
 ## A top-level directory layout
 
