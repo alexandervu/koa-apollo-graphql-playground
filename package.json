@@ -1,0 +1,27 @@
+{
+  "name": "koa-apollo-graphql-playground",
+  "version": "1.0.0",
+  "description": "Playground or/and template for KoaJS API using Apollo GraphQL Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderVu/koa-apollo-graphql-playground.git"
+  },
+  "keywords": [
+    "Koa",
+    "KoaJS",
+    "Apollo",
+    "GraphQL",
+    "Template",
+    "Playground"
+  ],
+  "author": "Alexander Vu <alexander.vu.tuyet@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderVu/koa-apollo-graphql-playground/issues"
+  },
+  "homepage": "https://github.com/alexanderVu/koa-apollo-graphql-playground#readme"
+}
