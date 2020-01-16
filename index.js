@@ -6,6 +6,7 @@ const http = require('http');
 const getPort = require('get-port');
 require('dotenv').config();
 const api = require('./lib/api');
+const wsapi = require('./lib/wsApi');
 const { log } = require('./lib/log');
 const apolloService = require('./lib/apollo');
 
