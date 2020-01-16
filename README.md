@@ -3,7 +3,9 @@
 > Template or playground for Apollo-Server (GraphQL) on KoaJS.
 
 
-This project is not for teaching GraphQL. It is a help to quickly set up a API based on KoaJS with Apollo GraphQL Server.
+This project is not for teaching GraphQL neither nor KoaJS. It is a help to quickly set up a API based on KoaJS with Apollo GraphQL Server.
+
+[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
 
 ## Install
 
@@ -26,8 +28,8 @@ npm run serve
 * serve - Start the API with nodemon for hot reload during development
 * start - Node default start script to start api in production
 * test - Run jest test utility
-* lint - Run eslint
-* lint:fix - Run exlint with fix option
+* lint - Run eslint standard
+* lint:fix - Run eslint with fix option
 
 ## A top-level directory layout
 
