@@ -31,7 +31,7 @@
   "homepage": "https://github.com/alexanderVu/koa-apollo-graphql-playground#readme",
   "dependencies": {
     "apollo-datasource": "^0.6.4",
-    "apollo-koa-constraint-directive": "^1.1.0",
+    "apollo-koa-constraint-directive": "^1.1.2",
     "apollo-server-errors": "^2.3.4",
     "apollo-server-koa": "^2.9.16",
     "deepmerge": "^4.2.2",
@@ -46,7 +46,7 @@
     "koa-convert": "^1.2.0",
     "koa-cors": "0.0.16",
     "koa-helmet": "^5.2.0",
-    "koa-router": "^7.4.0",
+    "koa-router": "^8.0.6",
     "koa-websocket": "^6.0.0",
     "logform": "^2.1.2",
     "nodemon": "^2.0.2",
