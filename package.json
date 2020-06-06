@@ -33,7 +33,7 @@
     "apollo-datasource": "^0.7.0",
     "apollo-koa-constraint-directive": "^1.1.3",
     "apollo-server-errors": "^2.4.1",
-    "apollo-server-koa": "^2.12.0",
+    "apollo-server-koa": "^2.14.2",
     "deepmerge": "^4.2.2",
     "dotenv": "^8.2.0",
     "get-port": "^5.1.1",
