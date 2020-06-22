@@ -1,6 +1,6 @@
 {
   "name": "koa-apollo-graphql-playground",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Playground or/and template for KoaJS API using Apollo GraphQL Server",
   "main": "index.js",
   "scripts": {
