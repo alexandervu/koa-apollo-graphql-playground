@@ -47,7 +47,6 @@
     "koa-cors": "0.0.16",
     "koa-helmet": "^5.2.0",
     "koa-router": "^9.0.1",
-    "koa-websocket": "^6.0.0",
     "logform": "^2.2.0",
     "nodemon": "^2.0.4",
     "uniqid": "^5.2.0",
